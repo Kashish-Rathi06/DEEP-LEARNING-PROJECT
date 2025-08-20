@@ -61,3 +61,5 @@ If no optimal solution is found, it notifies the user accordingly.
 This script is a practical example of how linear programming can be applied in business decision-making, especially in operations and resource management. By using PuLP, complex problems can be modeled and solved efficiently with just a few lines of Python code.
 
 #OUTPUT
+
+<img width="1913" height="1072" alt="Image" src="https://github.com/user-attachments/assets/a80ae7b2-d0fe-46b3-8224-4ba93e54cc3f" />
